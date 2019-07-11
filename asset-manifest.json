@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FunnyJokesApp/static/css/main.d00665d9.chunk.css",
+    "main.js": "/FunnyJokesApp/static/js/main.53a4cc1c.chunk.js",
+    "main.js.map": "/FunnyJokesApp/static/js/main.53a4cc1c.chunk.js.map",
+    "runtime~main.js": "/FunnyJokesApp/static/js/runtime~main.81e5580d.js",
+    "runtime~main.js.map": "/FunnyJokesApp/static/js/runtime~main.81e5580d.js.map",
+    "static/js/2.c3053585.chunk.js": "/FunnyJokesApp/static/js/2.c3053585.chunk.js",
+    "static/js/2.c3053585.chunk.js.map": "/FunnyJokesApp/static/js/2.c3053585.chunk.js.map",
+    "index.html": "/FunnyJokesApp/index.html",
+    "precache-manifest.6419d091ae7885295b869d224ad4fb64.js": "/FunnyJokesApp/precache-manifest.6419d091ae7885295b869d224ad4fb64.js",
+    "service-worker.js": "/FunnyJokesApp/service-worker.js",
+    "static/css/main.d00665d9.chunk.css.map": "/FunnyJokesApp/static/css/main.d00665d9.chunk.css.map"
+  }
+}
