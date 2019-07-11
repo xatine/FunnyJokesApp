@@ -1,0 +1,45 @@
+.jokes {
+  height: 60vh;
+  background: #fff;
+  width: 80vw;
+  overflow: scroll;
+  overflow-x: hidden;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.1);
+}
+
+.jokes__spinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #9575cd;
+  text-align: center;
+}
+
+.jokes__spinner h1 {
+  padding-left: 30px;
+}
+
+*::-webkit-scrollbar,
+*::-webkit-scrollbar-thumb {
+  width: 26px;
+  border-radius: 13px;
+  background: #fff;
+  background-clip: padding-box;
+  border: 10px solid transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  box-shadow: inset 0 0 0 60px red;
+}
+
+*::-webkit-scrollbar-track {
+  background-color: #fff;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+
+@media (max-width: 627px) {
+  .jokes {
+    width: 100vw;
+  }
+}
